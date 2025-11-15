@@ -1,10 +1,10 @@
 ## 👋 Olá, eu sou o Alessandro!
 
-**🔭 Atuando como Gerente Administrativo** em uma transportadora, com experiência em gestão, finanças e processos logísticos.  
-**🌱 Estudando Front-End** (HTML, CSS, JavaScript) para fortalecer a transição para tecnologia.  
-**🙏 Buscando colaborar** em projetos de desenvolvimento web ou que misturem tecnologia com gestão.  
+**🔭 Atuando como Gerente Administrativo** em uma transportadora, com experiência em gestão, finanças, logística e no uso de tecnologias aplicadas ao negócio. Desenvolvo relatórios, análises de dados e soluções em Excel e Power BI, contribuindo para decisões estratégicas e melhoria contínua dos processos.  
+**🌱 Estou ampliando meus conhecimentos em Desenvolvimento Front-End (HTML, CSS, JavaScript)**, buscando integrar tecnologia, análise de dados e gestão para criar soluções mais eficientes e orientadas a resultados. 
+**🙏 Buscando colaborar** em projetos de desenvolvimento web, análise de dados e iniciativas que conectem tecnologia com gestão empresarial.
 **🤔 Preciso de ajuda com** boas práticas em JavaScript e frameworks modernos.  
-**💬 Pergunte-me sobre** gestão empresarial, logística, finanças.  
+**💬 Pergunte-me sobre** gestão empresarial, logística, finanças, tecnologia aplicada ao negócio e análise de dados. 
   - **📧 alessandroleitte@gmail.com**
 
  <div style="display: inline_block"><br>
