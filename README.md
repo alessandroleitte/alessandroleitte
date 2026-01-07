@@ -27,9 +27,6 @@ Busco colaborar em projetos que envolvam:
 </div>
 
 
-###📬 Contato
-<div> 
- <a href="https://www.linkedin.com/in/alessandro-leite-219bb71b9/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-  <img src="https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.x/svgs/solid/at.svg" width="18" height="18" /> 
-<a href="mailto:alessandroleitte@gmail.com">alessandroleitte@gmail.com</a>
-</div>
+### 📬 Contato
+📧 **Email:** [alessandroleitte@gmail.com](mailto:alessandroleitte@gmail.com)  
+💼 **LinkedIn:** [Clique aqui](https://www.linkedin.com/in/alessandro-leite-219bb71b9/)
