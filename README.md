@@ -4,14 +4,14 @@ Sou **Gerente Administrativo** em uma transportadora, com forte atuação em **f
 
 Atuo criando **soluções práticas** que automatizam rotinas administrativas, reduzem erros operacionais e melhoram a tomada de decisão, unindo **visão de negócio + desenvolvimento web**.
 
-### 💼 Experiência Profissional
+## 💼 Experiência Profissional
 - Gestão administrativa e financeira
 - Análise de dados para apoio à decisão
 - Automação de processos com tecnologia
 - Desenvolvimento de soluções internas usando Google Apps Script
 - Relatórios e dashboards em Excel e Power BI
 
-### 🤝 Colaboração
+## 🤝 Colaboração
 Busco colaborar em projetos que envolvam:
 - Desenvolvimento Web
 - Automação de processos
@@ -27,6 +27,6 @@ Busco colaborar em projetos que envolvam:
 </div>
 
 
-### 📬 Contato
+## 📬 Contato
 <a href="mailto:alessandroleitte@gmail.com"> <img align="center" alt="Ale-e-mail" height="30" width="40" src="https://cdn-icons-png.flaticon.com/128/2504/2504727.png"> </a> 
-<a href="https://www.linkedin.com/in/alessandro-leite-219bb71b9/" target="_blank"> <img align="center" alt="Ale-appsscript" height="30" width="40" src="https://cdn-icons-png.flaticon.com/128/145/145807.png"> </a> 
+<a href="https://www.linkedin.com/in/alessandro-leite-219bb71b9/"> <img align="center" alt="Ale-linkedin" height="30" width="40" src="https://cdn-icons-png.flaticon.com/128/145/145807.png"> </a> 
