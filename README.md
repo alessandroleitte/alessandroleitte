@@ -28,5 +28,6 @@ Busco colaborar em projetos que envolvam:
 
 
 ### 📬 Contato
-📧 **Email:** [alessandroleitte@gmail.com](mailto:alessandroleitte@gmail.com)  
-💼 **LinkedIn:** [Clique aqui](https://www.linkedin.com/in/alessandro-leite-219bb71b9/)
+<a href="mailto:alessandroleitte@gmail.com"><img align="center" alt="Ale-e-mail" height="30" width="40" src="https://cdn-icons-png.flaticon.com/128/2504/2504727.png"> </a> 
+<a href="https://www.linkedin.com/in/alessandro-leite-219bb71b9/" target="_blank">
+<img align="center" alt="Ale-appsscript" height="30" width="40" src="https://cdn-icons-png.flaticon.com/128/145/145807.png"></a> 
